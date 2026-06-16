@@ -6,6 +6,7 @@ A simply lovely B-Day Music Box With ARDUINO UNO
 
 ## Project Preview
 <img width="619" height="299" alt="Screenshot 2026-06-12 213628" src="https://github.com/user-attachments/assets/50b01d7e-a0a7-4d00-9a63-29f0e737375b" />
+
 ## 3D model
 Bwlow here is the full CAD assembly of the project, the .STEP files on the /CAD Files Folder
 
