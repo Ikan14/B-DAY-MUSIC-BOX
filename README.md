@@ -22,9 +22,10 @@ In the "B-DAY MUSIC BOX.pdf" folder
 - Arduino UNO R3
 - Piezo Buzzer
 - Small breadboard
--  Red LEDs
--  9V Battery
+- Red LEDs
+- 9V Battery
 - Module LCD 16x2 I2C
+- Resistor 400 Ohm
 
 ## BOM (Bill of Materials)
 BOM Files on the /BOM (Bill Of Materials) folder ;)
