@@ -26,7 +26,7 @@ In the "B-DAY MUSIC BOX.pdf" folder
 - Red LEDs
 - 9V Battery
 - Module LCD 16x2 I2C
-- Resistor 400 Ohm
+- Resistor 330 Ohm
 - Push button
 
 ## BOM (Bill of Materials)
