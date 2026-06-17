@@ -1,7 +1,7 @@
 # B-DAY-MUSIC-BOX
 A simply lovely B-Day Music Box With ARDUINO UNO
 
-## . Description 
+## Description 
  A simple Birthday Music box that showing your little running text with 'Happy Birthday' song to lighten ye mood! With arduino Uno
 
 ## Project Preview
@@ -26,12 +26,13 @@ In the "B-DAY MUSIC BOX.pdf" folder
 - 9V Battery
 - Module LCD 16x2 I2C
 - Resistor 400 Ohm
+- Push button
 
 ## BOM (Bill of Materials)
 BOM Files on the /BOM (Bill Of Materials) folder ;)
 
 ## Firmware
-Firmware is on the /Firmware folder and it is written using Arduino IDE
+Firmware is on the /Firmware folder and it is written in C++ with Arduino IDE framework
 
 ## Files Included
 - CAD files (.STEP & source)
