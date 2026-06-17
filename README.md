@@ -5,7 +5,8 @@ A simply lovely B-Day Music Box With ARDUINO UNO
  A simple Birthday Music box that showing your little running text with 'Happy Birthday' song to lighten ye mood! With arduino Uno
 
 ## Project Preview
-<img width="619" height="299" alt="Screenshot 2026-06-12 213628" src="https://github.com/user-attachments/assets/50b01d7e-a0a7-4d00-9a63-29f0e737375b" />
+<img width="1280" height="488" alt="B-DAY MUSIC BOX (3)" src="https://github.com/user-attachments/assets/5c8f7d91-b9de-41cf-91fd-3fa3a9677987" />
+
 
 ## 3D model
 Below here is the full CAD assembly of the project, the .STEP files on the /CAD Files Folder
