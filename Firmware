@@ -61,7 +61,7 @@ void setup() {
     lcd.setCursor(0, 0);
     lcd.print("Music Box");
     lcd.setCursor(0, 1);
-    lcd.print("Playing: H-BDAY ");Clear the bottom row before the scrolling text begins
+    lcd.print("Playing: H-BDAY "); // Perbaikan: Teks rusak di sini sudah dijadikan komentar resmi
     delay(2000); 
     
     //Clear the bottom row before the Running text begins
@@ -97,4 +97,3 @@ void loop() {
     lcd.print("Restarting...   ");
     delay(2000);
 }
-
