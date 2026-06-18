@@ -34,17 +34,18 @@ Firmware is on the /Firmware folder and it is written in C++ with Arduino IDE fr
 
 ## BOM (Bill of Materials)
 BOM Files on the /BOM (Bill Of Materials) folder ;)
-[Birthday MUSIC BOX w arduino-bom.csv](https://github.com/user-attachments/files/29093115/Birthday.MUSIC.BOX.w.arduino-bom.csv)
-Name,Purpose,Quantity,Total Cost (USD),Link,Distributor
-"Battery Connector","Wire the Battery to the Breadboard",1,0.17,"https://tk.tokopedia.com/ZSQpFVxty/","Tokopedia"
-"Push button","To function as Turn OFF/ON",1,0.14,"https://tk.tokopedia.com/ZSQpFMhRu/","Tokopedia"
-"Red LED","To decorate the board",3,0.04,"https://tk.tokopedia.com/ZSQpNtVG4/","Tokopedia"
-"Resistor 330 Ohm","To lower the current that goes in to the LEDs",3,0.17,"https://tk.tokopedia.com/ZSQpNbkWK/","Tokopedia"
-"LCD I2C 16x2 Module","To show the text",1,1.52,"https://tk.tokopedia.com/ZSQpLqth8/","Tokopedia"
-"9V Battery","As the powersupply",1,1.18,"https://tk.tokopedia.com/ZSQpL8B5W/","Tokopedia"
-"Breadboard 400P","As the main board",1,0.45,"https://tk.tokopedia.com/ZSQpeSTvS/","Tokopedia"
-"Buzzer","To produce the sound (only need one but we cant buy one the minimum amount to buy is 5)",1,0.56,"https://tk.tokopedia.com/ZSQpJSLL9/","Tokopedia"
-"Arduino UNO R3 + Data Cable ","As the main processor and to send the code from the computer to the Arduino",1,6.99,"https://tk.tokopedia.com/ZSQp1arPU/","Tokopedia"
+| Name | Purpose | Quantity | Total Cost (USD) | Link | Distributor |
+| :--- | :--- | :---: | :---: | :--- | :--- |
+| Battery Connector | Wire the Battery to the Breadboard | 1 | 0.17 | [Tokopedia](https://tk.tokopedia.com/ZSQpFVxty/) | Tokopedia |
+| Push button | To function as Turn OFF/ON | 1 | 0.14 | [Tokopedia](https://tk.tokopedia.com/ZSQpFMhRu/) | Tokopedia |
+| Red LED | To decorate the board | 3 | 0.04 | [Tokopedia](https://tk.tokopedia.com/ZSQpNtVG4/) | Tokopedia |
+| Resistor 330 Ohm | To lower the current that goes in to the LEDs | 3 | 0.17 | [Tokopedia](https://tk.tokopedia.com/ZSQpNbkWK/) | Tokopedia |
+| LCD I2C 16x2 Module | To show the text | 1 | 1.52 | [Tokopedia](https://tk.tokopedia.com/ZSQpLqth8/) | Tokopedia |
+| 9V Battery | As the powersupply | 1 | 1.18 | [Tokopedia](https://tk.tokopedia.com/ZSQpL8B5W/) | Tokopedia |
+| Breadboard 400P | As the main board | 1 | 0.45 | [Tokopedia](https://tk.tokopedia.com/ZSQpeSTvS/) | Tokopedia |
+| Buzzer | To produce the sound (only need one but we cant buy one the minimum amount to buy is 5) | 1 | 0.56 | [Tokopedia](https://tk.tokopedia.com/ZSQpJSLL9/) | Tokopedia |
+| Arduino UNO R3 + Data Cable | As the main processor and to send the code from the computer to the Arduino | 1 | 6.99 | [Tokopedia](https://tk.tokopedia.com/ZSQp1arPU/) | Tokopedia |
+
 
 ## Files Included
 - CAD files (.STEP & source)
