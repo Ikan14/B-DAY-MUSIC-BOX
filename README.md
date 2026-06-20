@@ -1,5 +1,5 @@
-# B-DAY-MUSIC-BOX
-A simply lovely B-Day Music Box With ARDUINO UNO
+# B-DAY-MUSIC-CARD
+A simply lovely B-Day Music Card With ARDUINO UNO
 
 ## Description 
  A simple Birthday Music box that showing your little running text with 'Happy Birthday' song to lighten ye mood! With arduino Uno
