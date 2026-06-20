@@ -10,6 +10,8 @@ A simply lovely B-Day Music Card With ARDUINO UNO
 
 ## 3D model
 Below here is the full CAD assembly of the project, the .STEP files on the /CAD Files Folder
+<img width="596" height="319" alt="Screenshot 2026-06-20 211318" src="https://github.com/user-attachments/assets/bd40a862-b100-4233-9378-54f02b83beb1" />
+
 
 ## Wiring Diagram
 In the "B-DAY MUSIC CARD WIRING DIAGRAM.pdf" folder
