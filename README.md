@@ -12,7 +12,7 @@ A simply lovely B-Day Music Card With ARDUINO UNO
 Below here is the full CAD assembly of the project, the .STEP files on the /CAD Files Folder
 
 ## Wiring Diagram
-In the "B-DAY MUSIC BOX.pdf" folder
+In the "B-DAY MUSIC CARD WIRING DIAGRAM.pdf" folder
 
 ## Features :D
 - Shows running text for your b-day person in the LCD
