@@ -15,6 +15,9 @@ Below here is the full CAD assembly of the project, the .STEP files on the /CAD 
 Link file : https://drive.google.com/file/d/1eTe6k-YR26dLye5ErBySq_2LKEPLypgL/view?usp=drive_link 
 The file was to big for Github
 
+## Sources
+https://cad.onshape.com/documents/74de844c66b3a39180d6cf90/w/39b245fefb3ea4bc736f1959/e/d6661cfc82d2490c5d8d029f?renderMode=0&leftPanel=false&uiState=6a429aa6e3ae4b6fae6d3720
+My CAD assembly design sources in Onshape
 
 ## Wiring Diagram
 In the "B-DAY MUSIC CARD WIRING DIAGRAM.pdf" folder
